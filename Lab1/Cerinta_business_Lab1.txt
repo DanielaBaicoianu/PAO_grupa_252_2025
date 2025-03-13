@@ -1,0 +1,9 @@
+Firma X se ocupa cu vanzarea de echipamente sportive.
+Managerul firmei doreste sa poata gestiona clientii si sa aiba acces la detaliile referitoare la fiecare in parte: nume complet, adresa de email, varsta, adresa, 
+numar comenzi, dar sa le si modifice atunci cand este nevoie.
+De asemenea managerul vrea sa identifice din ce categorie de cumparator face parte fiecare client.
+Clientii se impart in mai multe categorii: BASIC, SILVER si PREMIUM.
+Clientii SILVER sunt cei care au mai mult de 5 comenzi plasate pe site, dar mai putin de 15, iar cei premium au minim 15 comenzi.
+1. Sa se identifice obiectele (si sa seimplementeze) care sa defineasca cerinta de business.
+2. Sa se creeze si apoi sa se afiseze la consola clienti care sa apartina fiecarei categorii in parte.
+3. Sa se creeze o lista care sa contina toti clientii si sa se afiseze pentru fiecare in parte numele si tipul de client.

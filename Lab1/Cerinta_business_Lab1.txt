@@ -7,3 +7,4 @@ Clientii SILVER sunt cei care au mai mult de 5 comenzi plasate pe site, dar mai 
 1. Sa se identifice obiectele (si sa se implementeze) care sa defineasca cerinta de business.
 2. Sa se creeze si apoi sa se afiseze la consola clienti care sa apartina fiecarei categorii in parte.
 3. Sa se creeze o lista care sa contina toti clientii si sa se afiseze pentru fiecare in parte numele si tipul de client.
+4.Sa se ofere posibilitatea de a se actualiza numarul de comenzi atunci cand clientul plaseaza o comanda noua.

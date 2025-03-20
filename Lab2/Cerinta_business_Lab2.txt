@@ -1,0 +1,29 @@
+Lab1:
+Firma X se ocupa cu vanzarea de echipamente sportive.
+Managerul firmei doreste sa poata gestiona clientii si sa aiba acces la detaliile referitoare la fiecare in parte: nume complet, adresa de email, varsta, adresa, 
+numar comenzi, dar sa le si modifice atunci cand este nevoie.
+De asemenea managerul vrea sa identifice din ce categorie de cumparator face parte fiecare client.
+Clientii se impart in mai multe categorii: BASIC, SILVER si PREMIUM.
+Clientii SILVER sunt cei care au mai mult de 5 comenzi plasate pe site, dar mai putin de 15, iar cei premium au minim 15 comenzi.
+
+1. Sa se identifice obiectele (si sa seimplementeze) care sa defineasca cerinta de business.
+2. Sa se creeze si apoi sa se afiseze la consola clienti care sa apartina fiecarei categorii in parte.
+3. Sa se creeze o lista care sa contina toti clientii si sa se afiseze pentru fiecare in parte numele si tipul de client.
+
+
+Lab2:
+Sa se extinda functionalitatea astfel incat fiecarui client sa i se poate gestiona comenzile. 
+Fiecare comanda este formata din unul sau mai multe produse. De asemenea fiecare comanda trebuie sa aiba un id de comanda, un status, dar si data la care a fost efectuata comanda.
+Id-urile comenzilor se genereaza consecutive, incepand de la 1, in ordinea in care au fost plasate comenzile.
+Statusurile acceptate sunt PROCESAT si NEPROCESAT. Atunci cand se plaseaza o comanda statusul este NEPROCESAT by default. Pentru un client, comenzile sunt procesate in ordinea in care au fost comandate, pentru a procesa o comanda, toate comenzile plasate anterior trebuie sa aiba statusul procesat, in caz contrar se proceseaza mai intai comenzile precedente. 
+Produsele trebuie sa contina urmatoarele informatii: denumire, pret.
+Data comenzii respecta formatarea: "dd-MM-yyyy HH:mm".
+
+1. Sa se identifice obiectele care sa defineasca cerinta de business (si sa se implementeze/modifice) .
+2. Implementati functionalitatea de adaugare comanda si sa atribuiti fiecarui client cel putin o comanda.
+3. Sa se afiseze la consola numele fiecarui client urmat de produsele comandate.
+3. Sa se adauge minim 5 comenzi pentru un client la alegere si sa se proceseze comanda.
+4. Sa se importe dintr-un fisier txt minim 10 produse care sa fie adaugate comenzilor unor clienti existenti sau noi. 
+
+
+

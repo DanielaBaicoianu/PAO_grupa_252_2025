@@ -17,13 +17,13 @@ Fiecare comanda este formata din unul sau mai multe produse. De asemenea fiecare
 Id-urile comenzilor se genereaza consecutive, incepand de la 1, in ordinea in care au fost plasate comenzile.
 Statusurile acceptate sunt PROCESAT si NEPROCESAT. Atunci cand se plaseaza o comanda statusul este NEPROCESAT by default. Pentru un client, comenzile sunt procesate in ordinea in care au fost comandate, pentru a procesa o comanda, toate comenzile plasate anterior trebuie sa aiba statusul procesat, in caz contrar se proceseaza mai intai comenzile precedente. 
 Produsele trebuie sa contina urmatoarele informatii: denumire, pret.
-Data comenzii respecta formatarea: "dd-MM-yyyy HH:mm".
 
 1. Sa se identifice obiectele care sa defineasca cerinta de business (si sa se implementeze/modifice) .
 2. Implementati functionalitatea de adaugare comanda si sa atribuiti fiecarui client cel putin o comanda.
 3. Sa se afiseze la consola numele fiecarui client urmat de produsele comandate.
-3. Sa se adauge minim 5 comenzi pentru un client la alegere si sa se proceseze comanda.
+3. Sa se adauge minim 5 comenzi pentru un client la alegere si sa se proceseze comanda numarul 4.
 4. Sa se importe dintr-un fisier txt minim 10 produse care sa fie adaugate comenzilor unor clienti existenti sau noi. 
+  Nota: comenzile nu pot fi "reutilizate" pentru mai multi clienti, o comanda poate fi atribuita unui singur client, o singura data.
 
 
 

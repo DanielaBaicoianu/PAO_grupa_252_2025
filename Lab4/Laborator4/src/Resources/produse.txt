@@ -1,0 +1,11 @@
+pantaloni,24.5
+hanorac,25.8
+tricou,15.7
+gantera 2kg,23
+bustiera,23
+adidasi,60
+steper,90
+sosete,6
+minge,26.9
+saltea,31
+salopeta,41

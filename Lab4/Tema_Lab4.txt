@@ -1,0 +1,3 @@
+Tema:
+Sa se stocheze intr-un Map toate comenzile astfel: cheia este idComanda, iar valoarea stocata per cheie este suma totala per comanda. Comenzile sunt unice!! 
+*sa se afiseze la consola continutul mapului
